@@ -1,0 +1,359 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PatOrgWatcher/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.2",
+          "PatOrgLibraries": "6.7.13"
+        },
+        "runtime": {
+          "PatOrgWatcher.dll": {}
+        },
+        "resources": {
+          "de/PatOrgWatcher.resources.dll": {
+            "locale": "de"
+          }
+        }
+      },
+      "Newtonsoft.Json/13.0.2": {
+        "runtime": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.2.27524"
+          }
+        }
+      },
+      "PatOrgLibraries/6.7.13": {
+        "runtime": {
+          "lib/net48/AHelper.dll": {
+            "assemblyVersion": "6.7.0.0",
+            "fileVersion": "6.7.0.0"
+          },
+          "lib/net48/Accord.MachineLearning.dll": {
+            "assemblyVersion": "3.8.0.0",
+            "fileVersion": "3.8.0.6134"
+          },
+          "lib/net48/Accord.Math.Core.dll": {
+            "assemblyVersion": "3.8.0.0",
+            "fileVersion": "3.8.0.6134"
+          },
+          "lib/net48/Accord.Math.dll": {
+            "assemblyVersion": "3.8.0.0",
+            "fileVersion": "3.8.0.6134"
+          },
+          "lib/net48/Accord.Statistics.dll": {
+            "assemblyVersion": "3.8.0.0",
+            "fileVersion": "3.8.0.6134"
+          },
+          "lib/net48/Accord.dll": {
+            "assemblyVersion": "3.8.0.0",
+            "fileVersion": "3.8.0.6134"
+          },
+          "lib/net48/Aspose.Email.dll": {
+            "assemblyVersion": "21.8.0.0",
+            "fileVersion": "21.8.0.0"
+          },
+          "lib/net48/Aspose.Words.dll": {
+            "assemblyVersion": "21.8.0.0",
+            "fileVersion": "21.8.0.0"
+          },
+          "lib/net48/BS.Cmis.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.0.0.0"
+          },
+          "lib/net48/BS.Connect.Core.dll": {
+            "assemblyVersion": "6.7.0.0",
+            "fileVersion": "6.7.0.0"
+          },
+          "lib/net48/BS.Connect.dll": {
+            "assemblyVersion": "6.7.0.0",
+            "fileVersion": "6.7.0.0"
+          },
+          "lib/net48/BS.Controls.Interfaces.dll": {
+            "assemblyVersion": "6.7.0.0",
+            "fileVersion": "6.7.0.0"
+          },
+          "lib/net48/BS.Core.dll": {
+            "assemblyVersion": "6.7.0.0",
+            "fileVersion": "6.7.0.0"
+          },
+          "lib/net48/BS.Data.dll": {
+            "assemblyVersion": "6.7.0.0",
+            "fileVersion": "6.7.0.0"
+          },
+          "lib/net48/BS.Diagnostics.Logging.dll": {
+            "assemblyVersion": "6.7.0.0",
+            "fileVersion": "6.7.0.0"
+          },
+          "lib/net48/BS.Documents.CAD.Atlanta.dll": {
+            "assemblyVersion": "6.7.0.0",
+            "fileVersion": "6.7.0.0"
+          },
+          "lib/net48/BS.Documents.Core.dll": {
+            "assemblyVersion": "6.7.0.0",
+            "fileVersion": "6.7.0.0"
+          },
+          "lib/net48/BS.Documents.Mapping.FileTypes.dll": {
+            "assemblyVersion": "6.7.0.0",
+            "fileVersion": "6.7.0.0"
+          },
+          "lib/net48/BS.Documents.OCR.Core.dll": {
+            "assemblyVersion": "6.7.0.0",
+            "fileVersion": "6.7.0.0"
+          },
+          "lib/net48/BS.Documents.OCR.HOCR.dll": {
+            "assemblyVersion": "6.7.0.0",
+            "fileVersion": "6.7.0.0"
+          },
+          "lib/net48/BS.Documents.Pdf.DocNet.dll": {
+            "assemblyVersion": "6.7.0.0",
+            "fileVersion": "6.7.0.0"
+          },
+          "lib/net48/BS.Documents.Web.Atlanta.dll": {
+            "assemblyVersion": "6.7.0.0",
+            "fileVersion": "6.7.0.0"
+          },
+          "lib/net48/BS.Documents.Web.dll": {
+            "assemblyVersion": "6.7.0.0",
+            "fileVersion": "6.7.0.0"
+          },
+          "lib/net48/BS.Documents.dll": {
+            "assemblyVersion": "6.7.0.0",
+            "fileVersion": "6.7.0.0"
+          },
+          "lib/net48/BS.IO.Interfaces.dll": {
+            "assemblyVersion": "6.7.0.0",
+            "fileVersion": "6.7.0.0"
+          },
+          "lib/net48/BS.IO.dll": {
+            "assemblyVersion": "6.7.0.0",
+            "fileVersion": "6.7.0.0"
+          },
+          "lib/net48/BS.Security.dll": {
+            "assemblyVersion": "6.7.0.0",
+            "fileVersion": "6.7.0.0"
+          },
+          "lib/net48/BS.Threading.dll": {
+            "assemblyVersion": "6.7.0.0",
+            "fileVersion": "6.7.0.0"
+          },
+          "lib/net48/CNTXServices.dll": {
+            "assemblyVersion": "6.7.0.0",
+            "fileVersion": "6.7.0.0"
+          },
+          "lib/net48/ClosedXML.dll": {
+            "assemblyVersion": "0.73.0.0",
+            "fileVersion": "0.73.0.0"
+          },
+          "lib/net48/CmdBase.dll": {
+            "assemblyVersion": "6.7.0.0",
+            "fileVersion": "6.7.0.0"
+          },
+          "lib/net48/ColumnInfosDump.dll": {
+            "assemblyVersion": "6.7.0.0",
+            "fileVersion": "6.7.0.0"
+          },
+          "lib/net48/DeadLockSniffer.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          },
+          "lib/net48/DevExpress.Mvvm.v21.2.dll": {
+            "assemblyVersion": "21.2.9.0",
+            "fileVersion": "21.2.9.0"
+          },
+          "lib/net48/DocumentFormat.OpenXml.dll": {
+            "assemblyVersion": "2.5.5631.0",
+            "fileVersion": "2.5.5631.0"
+          },
+          "lib/net48/DotNetMagic2005.dll": {
+            "assemblyVersion": "5.3.0.0",
+            "fileVersion": "5.3.0.0"
+          },
+          "lib/net48/ETWLogging.dll": {
+            "assemblyVersion": "6.7.0.0",
+            "fileVersion": "6.7.0.0"
+          },
+          "lib/net48/HtmlAgilityPack.dll": {
+            "assemblyVersion": "1.11.24.0",
+            "fileVersion": "1.11.24.0"
+          },
+          "lib/net48/ICSharpCode.SharpZipLib.dll": {
+            "assemblyVersion": "0.85.1.271",
+            "fileVersion": "0.85.1.271"
+          },
+          "lib/net48/IPCUniversalPDFPrinter.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          },
+          "lib/net48/Int01Clt.dll": {
+            "assemblyVersion": "6.7.0.0",
+            "fileVersion": "6.7.0.0"
+          },
+          "lib/net48/Int02.dll": {
+            "assemblyVersion": "6.7.0.0",
+            "fileVersion": "6.7.0.0"
+          },
+          "lib/net48/LZ4.dll": {
+            "assemblyVersion": "1.0.15.93",
+            "fileVersion": "1.0.15.93"
+          },
+          "lib/net48/Lib02.dll": {
+            "assemblyVersion": "6.7.0.0",
+            "fileVersion": "6.7.0.0"
+          },
+          "lib/net48/Lib03.dll": {
+            "assemblyVersion": "6.7.0.0",
+            "fileVersion": "6.7.0.0"
+          },
+          "lib/net48/Lib04.dll": {
+            "assemblyVersion": "6.7.0.0",
+            "fileVersion": "6.7.0.0"
+          },
+          "lib/net48/LibExport.dll": {
+            "assemblyVersion": "6.7.0.0",
+            "fileVersion": "6.7.0.0"
+          },
+          "lib/net48/Microsoft.Diagnostics.Tracing.EventSource.dll": {
+            "assemblyVersion": "1.1.28.0",
+            "fileVersion": "1.1.28.0"
+          },
+          "lib/net48/MimetypeDetector.dll": {
+            "assemblyVersion": "6.7.0.0",
+            "fileVersion": "6.7.0.0"
+          },
+          "lib/net48/PO6DoVeHash.dll": {
+            "assemblyVersion": "6.7.0.0",
+            "fileVersion": "6.7.0.0"
+          },
+          "lib/net48/PO7DataClassLibrary.dll": {
+            "assemblyVersion": "6.7.0.0",
+            "fileVersion": "6.7.0.0"
+          },
+          "lib/net48/PO7DataModelLibrary.dll": {
+            "assemblyVersion": "6.7.0.0",
+            "fileVersion": "6.7.0.0"
+          },
+          "lib/net48/PatConstants.dll": {
+            "assemblyVersion": "6.7.0.0",
+            "fileVersion": "6.7.0.0"
+          },
+          "lib/net48/PatConstantsClt.dll": {
+            "assemblyVersion": "6.7.0.0",
+            "fileVersion": "6.7.0.0"
+          },
+          "lib/net48/PatOrgInterface.exe": {
+            "assemblyVersion": "6.7.0.0",
+            "fileVersion": "6.4.0.0"
+          },
+          "lib/net48/PatOrgLibraries.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          },
+          "lib/net48/RabbitMQ.Client.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.1.0"
+          },
+          "lib/net48/RabbitMQClient.dll": {
+            "assemblyVersion": "1.0.6611.27662",
+            "fileVersion": "1.0.0.0"
+          },
+          "lib/net48/StringHlp.dll": {
+            "assemblyVersion": "6.7.0.0",
+            "fileVersion": "6.7.0.0"
+          },
+          "lib/net48/Ude.dll": {
+            "assemblyVersion": "0.1.1.0",
+            "fileVersion": "0.1.1.0"
+          },
+          "lib/net48/VersionInfo.dll": {
+            "assemblyVersion": "6.7.0.0",
+            "fileVersion": "6.7.0.0"
+          },
+          "lib/net48/WordPressPCL.dll": {
+            "assemblyVersion": "1.6.2.0",
+            "fileVersion": "1.6.2.0"
+          }
+        },
+        "resources": {
+          "lib/net48/de/AHelper.resources.dll": {
+            "locale": "de"
+          },
+          "lib/net48/de/BS.Connect.Core.resources.dll": {
+            "locale": "de"
+          },
+          "lib/net48/de/BS.Connect.resources.dll": {
+            "locale": "de"
+          },
+          "lib/net48/de/BS.Core.resources.dll": {
+            "locale": "de"
+          },
+          "lib/net48/de/BS.Diagnostics.Logging.resources.dll": {
+            "locale": "de"
+          },
+          "lib/net48/de/BS.Documents.Core.resources.dll": {
+            "locale": "de"
+          },
+          "lib/net48/de/BS.Documents.OCR.Core.resources.dll": {
+            "locale": "de"
+          },
+          "lib/net48/de/BS.Documents.resources.dll": {
+            "locale": "de"
+          },
+          "lib/net48/de/BS.IO.Interfaces.resources.dll": {
+            "locale": "de"
+          },
+          "lib/net48/de/BS.IO.resources.dll": {
+            "locale": "de"
+          },
+          "lib/net48/en/CNTXServices.resources.dll": {
+            "locale": "en"
+          },
+          "lib/net48/en/Int01Clt.resources.dll": {
+            "locale": "en"
+          },
+          "lib/net48/en/Lib02.resources.dll": {
+            "locale": "en"
+          },
+          "lib/net48/en/Lib04.resources.dll": {
+            "locale": "en"
+          },
+          "lib/net48/en/PO7DataModelLibrary.resources.dll": {
+            "locale": "en"
+          },
+          "lib/net48/en/PatConstants.resources.dll": {
+            "locale": "en"
+          },
+          "lib/net48/fr/PO7DataModelLibrary.resources.dll": {
+            "locale": "fr"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PatOrgWatcher/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/13.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-R2pZ3B0UjeyHShm9vG+Tu0EBb2lC8b0dFzV9gVn50ofHXh9Smjk6kTn7A/FdAsC8B5cKib1OnGYOXxRBz5XQDg==",
+      "path": "newtonsoft.json/13.0.2",
+      "hashPath": "newtonsoft.json.13.0.2.nupkg.sha512"
+    },
+    "PatOrgLibraries/6.7.13": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-aYLexD69WeRpg0mDgXw8IunDyrcPsUGhCfCso8hGhGDqFi8LwJTiOt4fwngPv9NANmG3dClYQFAM+PM+cYwEIQ==",
+      "path": "patorglibraries/6.7.13",
+      "hashPath": "patorglibraries.6.7.13.nupkg.sha512"
+    }
+  }
+}
