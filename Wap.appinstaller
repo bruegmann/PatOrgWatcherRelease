@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <AppInstaller
 	Uri="https://bruegmann.github.io/PatOrgWatcherRelease/Wap.appinstaller"
-	Version="1.0.7.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
+	Version="1.0.8.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
 	<MainBundle
 		Name="6effb3bd-a35a-4143-a0ac-2a3b0ac45925"
-		Version="1.0.7.0"
+		Version="1.0.8.0"
 		Publisher="E=sb@bruegmann-software.eu, CN=Brügmann Software GmbH, O=Brügmann Software GmbH, L=Papenburg, S=Niedersachsen, C=DE"
-		Uri="https://bruegmann.github.io/PatOrgWatcherRelease/Wap_1.0.7.0_Test/Wap_1.0.7.0_x86.msixbundle" />
+		Uri="https://bruegmann.github.io/PatOrgWatcherRelease/Wap_1.0.8.0_Test/Wap_1.0.8.0_x86.msixbundle" />
 	<UpdateSettings>
 		<OnLaunch
 			HoursBetweenUpdateChecks="0" />
